@@ -12,7 +12,7 @@
 
 ## ⚡ Functionality Demo
 
-![App Workflow](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZ1bmd6eXF6eXF6eXF6eXF6eXF6eXF6eXF6eXF6eXF6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btQ8jDk7q88S8lq/giphy.gif)
+![App Workflow](media/Windows_11_Calculator_in_light_mode.png)
 
 *(Note: Replace the generic GIF above with a screen recording of your actual application!)*
 
