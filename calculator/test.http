@@ -1,0 +1,4 @@
+POST http://localhost:8080/api/evaluate
+Content-Type: text/plain
+
+(10 + sqrt(9)) *
